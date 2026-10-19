@@ -1,0 +1,11 @@
+{
+  "org": "wireservice",
+  "repo": "agate-excel",
+  "versions": [
+    {
+      "commit": "596ea9e9a757756c503a8de7203446ffd436ebc6",
+      "tag": "",
+      "parsed_at": "2026-10-19T12:37:30.790765+00:00"
+    }
+  ]
+}
